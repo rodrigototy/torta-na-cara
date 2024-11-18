@@ -9,7 +9,7 @@ id;question;answer1;answer2;answer3;answer4;timeLife;correctAnswer
 8;Qual atividade ajuda a reduzir o desperdício alimentar?;Planejar as refeições;Comprar comida em grandes quantidades;Jogar fora os restos;Comprar fast food;30;1
 9;Qual prática ajuda a preservar o meio ambiente?;Usar sacolas plásticas;Descartar tudo no lixo;Utilizar sacolas reutilizáveis;Usar produtos descartáveis;30;3
 10;Como a reciclagem lúdica pode ajudar no aprendizado?;Ensinando sobre reutilização;Apenas diversão;Aumentando a quantidade de lixo;Trazendo novos brinquedos;30;1
-11;O que podemos fazer para preservar o Cerrado?;Evitar o desperdício de alimentos;Usar eletrônicos o dia todo;Plantar árvores;Comprar produtos sem embalagem;30;1
+11;O que podemos fazer para preservar o Cerrado?;Evitar o desperdício de alimentos;Usar eletrônicos o dia todo;Plantar árvores;Comprar produtos sem embalagem;30;4
 12;O que o consumo sustentável promove?;Crescimento da poluição;Redução dos recursos;Preservação dos recursos naturais;Destruição dos ecossistemas;30;3
 13;Qual ação é exemplo de reciclagem criativa?;Usar garrafas PET para brinquedos;Jogar fora tampas de garrafa;Comprar novos brinquedos;Evitar qualquer reciclagem;30;1
 14;O que é importante no consumo de energia?;Consumir sem pensar;Deixar aparelhos ligados o tempo todo;Desligar aparelhos quando não usados;Manter aparelhos sempre carregados;30;3
@@ -17,7 +17,7 @@ id;question;answer1;answer2;answer3;answer4;timeLife;correctAnswer
 16;Qual região é mais afetada pelo desmatamento na Amazônia?;Norte;Sul;Leste;Oeste;30;1
 17;Como podemos reduzir o impacto ambiental das compras?;Comprar em excesso;Reutilizar e reciclar;Comprar produtos de fontes insustentáveis;Descartar todos os resíduos;30;2
 18;Qual é o principal recurso ameaçado pelo desperdício de água?;Energia;Solo;Florestas;Rios e lagos;30;4
-19;"O que significa ""ecossistema""?";Local onde diferentes espécies vivem;Apenas um tipo de planta;Conjunto de árvores;Lugar sem vida;30;1
+19;O que significa ecossistema?;Local onde diferentes espécies vivem;Apenas um tipo de planta;Conjunto de árvores;Lugar sem vida;30;1
 20;Qual ação contribui para o consumo sustentável no dia a dia?;Utilizar embalagens descartáveis;Comprar mais do que precisamos;Reduzir o consumo de energia e água;Evitar produtos reciclados;30;3
 21;Quais são os principais componentes do meio ambiente?;Atmosfera, hidrosfera, litosfera e biosfera;Água e ar apenas;Solo e água apenas;Somente seres vivos;30;1
 22;O que é biodiversidade?;Variedade de seres vivos em um ambiente;Apenas animais em extinção;Somente plantas e árvores;Recursos naturais do solo;30;1
@@ -42,7 +42,7 @@ id;question;answer1;answer2;answer3;answer4;timeLife;correctAnswer
 41;Cite dois exemplos de materiais que podem ser reciclados.;Plástico e papel;Vidro e casca de frutas;Metal e restos de comida;Plástico e óleo de cozinha;30;1
 42;Quais atitudes podemos ter em casa ou na escola para cuidar do meio ambiente?;Separar o lixo e economizar água;Deixar as luzes acesas;Desperdiçar comida;Jogar lixo nas ruas;30;1
 43;Fale um exemplo de atitude sustentável.;Usar sacolas reutilizáveis;Deixar a torneira aberta;Descartar lixo em qualquer lugar;Comprar produtos descartáveis;30;1
-44;Qual a cor da lixeira usada na coleta seletiva para plástico?;Amarela;Verde;Vermelha;Azul;30;1
+44;Qual a cor da lixeira usada na coleta seletiva para plástico?;Amarela;Verde;Vermelha;Azul;30;3
 45;Cite alguma ação para reduzir a quantidade de lixo nas ruas.;Jogar lixo em lixeiras;Queimar lixo em casa;Deixar o lixo no chão;Apenas reciclar plástico;30;1
 46;Como o descarte do lixo pode afetar os animais e a natureza?;Pode causar poluição e machucar animais;Ajuda a fertilizar o solo;Protege os habitats naturais;Melhora a qualidade da água;30;1
 47;Cite dois exemplos de materiais que não podem ser reciclados.;Espelhos e porcelana;Papelão e vidro;Plástico e alumínio;Latas e garrafas PET;30;1
